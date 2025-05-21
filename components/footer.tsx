@@ -12,7 +12,8 @@ export default function Footer() {
                 <Pencil className="h-4 w-4 text-white" />
               </div>
               <span className="font-poppins text-lg font-bold">
-                Assignment<span className="text-indigo-600">Ace</span>
+                <span className="text-indigo-600">A+</span>
+                Assignments
               </span>
             </Link>
             <p className="text-sm text-muted-foreground mt-2">
