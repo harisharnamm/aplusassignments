@@ -28,7 +28,8 @@ export default function Header() {
             <Pencil className="h-5 w-5 text-white" />
           </div>
           <span className="font-poppins text-xl font-bold">
-            Assignment<span className="text-indigo-600">Ace</span>
+            <span className="text-indigo-600">A+</span>
+            Assignments
           </span>
         </Link>
 
