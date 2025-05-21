@@ -169,13 +169,9 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="font-medium mb-1">Email</h3>
-                      <p className="text-muted-foreground mb-1">For general inquiries:</p>
-                      <a href="mailto:info@assignmentace.com" className="text-indigo-600 hover:underline">
-                        info@assignmentace.com
-                      </a>
                       <p className="text-muted-foreground mt-2 mb-1">For support:</p>
                       <a href="mailto:support@assignmentace.com" className="text-indigo-600 hover:underline">
-                        support@assignmentace.com
+                        maverickeashan@gmail.com
                       </a>
                     </div>
                   </div>
@@ -186,13 +182,9 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="font-medium mb-1">Phone</h3>
-                      <p className="text-muted-foreground mb-1">Customer Service:</p>
-                      <a href="tel:+11234567890" className="text-indigo-600 hover:underline">
-                        +1 (123) 456-7890
-                      </a>
                       <p className="text-muted-foreground mt-2 mb-1">Urgent Support:</p>
-                      <a href="tel:+18001234567" className="text-indigo-600 hover:underline">
-                        +1 (800) 123-4567
+                      <a href="tel:+15197816849" className="text-indigo-600 hover:underline">
+                        +1 (519) 781-6849 
                       </a>
                     </div>
                   </div>
@@ -206,10 +198,9 @@ export default function ContactPage() {
                       <p className="text-muted-foreground mb-2">
                         Our support team is available via live chat during business hours.
                       </p>
-                      <Button variant="outline" className="gap-2">
-                        <MessageSquare className="w-4 h-4" />
-                        Start Chat
-                      </Button>
+                      <a href="https://wa.me/qr/FHRVMG5SP2IRG1" className="text-indigo-600 hover:underline">
+                        Start Chat! 
+                      </a>
                     </div>
                   </div>
 
@@ -244,7 +235,7 @@ export default function ContactPage() {
           <div className="bg-white dark:bg-gray-950 rounded-lg shadow-md border overflow-hidden">
             <div className="aspect-video w-full">
               <Image
-                src="/placeholder.svg?height=400&width=800"
+                src="/maps-img.png"
                 width={800}
                 height={400}
                 alt="Map location"
@@ -259,9 +250,10 @@ export default function ContactPage() {
                 <div>
                   <h3 className="font-medium mb-1">Virtual Office Address</h3>
                   <p className="text-muted-foreground">
-                    123 Academic Way, Suite 456
+                    Midtown Manhattan, 
                     <br />
-                    New York, NY 10001
+                    NYC Stark Office Suites, 
+                    New York, NY 10165
                     <br />
                     United States
                   </p>
@@ -271,7 +263,7 @@ export default function ContactPage() {
                 asChild
                 className="bg-gradient-to-r from-indigo-500 to-purple-600 hover:from-indigo-600 hover:to-purple-700"
               >
-                <a href="https://maps.google.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://maps.google.com/maps/place//data=!4m2!3m1!1s0x89c259017551b6d5:0x8e0d7a415a993489?entry=s&sa=X&ved=1t:8290&hl=en-US&ictx=111" target="_blank" rel="noopener noreferrer">
                   Get Directions
                 </a>
               </Button>
