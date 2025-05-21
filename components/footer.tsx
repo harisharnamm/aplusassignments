@@ -68,7 +68,7 @@ export default function Footer() {
         </div>
         <div className="mt-8 border-t pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-xs text-muted-foreground">
-            © {new Date().getFullYear()} AssignmentAce. All rights reserved.
+            © {new Date().getFullYear()} A+ Assignments. All rights reserved.
           </p>
           <div className="flex items-center gap-4">
             <div className="flex items-center gap-1">
