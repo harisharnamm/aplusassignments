@@ -50,15 +50,11 @@ export default function Footer() {
             <div>
               <h3 className="font-poppins text-lg font-medium mb-4">Connect</h3>
               <div className="flex gap-4">
-                <Link href="#" className="text-muted-foreground hover:text-indigo-600 transition-colors">
+                <Link href="https://www.instagram.com/aplusassignments100?igsh=OTZ0MzE5dzNldG11&utm_source=qr" className="text-muted-foreground hover:text-indigo-600 transition-colors">
                   <Instagram className="h-5 w-5" />
                   <span className="sr-only">Instagram</span>
                 </Link>
-                <Link href="#" className="text-muted-foreground hover:text-indigo-600 transition-colors">
-                  <Linkedin className="h-5 w-5" />
-                  <span className="sr-only">LinkedIn</span>
-                </Link>
-                <Link href="#" className="text-muted-foreground hover:text-indigo-600 transition-colors">
+                <Link href="/contact" className="text-muted-foreground hover:text-indigo-600 transition-colors">
                   <MessageSquare className="h-5 w-5" />
                   <span className="sr-only">Discord</span>
                 </Link>
