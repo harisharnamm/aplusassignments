@@ -20,7 +20,7 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "AssignmentAce | Your Assignment Deadline Lifesaver",
+  title: "A+ Assignments | Your Assignment Deadline Lifesaver",
   description:
     "Professional help for any subject, any complexity. Get expert assistance with your college assignments.",
     generator: 'v0.dev'
