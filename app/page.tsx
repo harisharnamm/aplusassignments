@@ -72,7 +72,7 @@ export default function Home() {
             <div className="relative">
               <div className="relative z-10 rounded-lg overflow-hidden shadow-xl transform transition-all hover:scale-[1.01] duration-500">
                 <Image
-                  src="https://drive.google.com/file/d/1AWowRgsly7Si9eEaub6PpZVjWN2eJJcK/view?usp=sharing"
+                  src="/hero-img.jpg"
                   width={600}
                   height={600}
                   alt="Student studying with laptop and books"
